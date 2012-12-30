@@ -1,0 +1,1 @@
+--crf 24 -r 3 -b 3 -f 1:1 --psy-rd 0.4:0 --aq-mode 2 --aq-strength 0.8 --rc-lookahead 60 --subme 6 --trellis 2
